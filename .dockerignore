@@ -1,0 +1,17 @@
+**/.env
+**/.eslintignore
+**/.eslintrc
+**/.gitignore
+**/.prettierignore
+**/.prettierrc.js
+**/Dockerfile
+**/LICENSE
+**/README.md
+
+.git
+**/.git/
+**/build/
+**/node_modules/
+
+**/bin/
+**/obj/
